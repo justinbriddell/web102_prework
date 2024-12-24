@@ -1,40 +1,46 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Games R Us
 
-Submitted by: **Your Name Here**
+Submitted by: Justin Briddell
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Games R Us is a website for the company Games R Us Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ Complete ] The introduction section explains the background of the company and how many games remain unfunded.
+* [ Complete ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [ Complete ] The Our Games section initially displays all games funded by Games R Us Crowdfunding
+* [ Complete ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ Complete ] Renamed the header from Sea Monster to Games R Us.
+* [ Complete ] Added a new logo for Games R Us in the header.
+* [ Complete ] Adjusted the sizing and margin of the GamesRUs logo to width: 10rem, height: 7rem, margin-right: 0.5rem.
+* [ Complete ] Added a light blue background around the stats-container class.
+* [ Complete ] Changed the background color of the stats-card class to white and the text color to black.
+* [ Complete ] Added a hover selector to the game-card class along with a purple box shadow style.
+* [ Complete ] Added a hover selector to all the btn id's (ex: #funded-btn:hover) and styled with a purple background as well as white text color when user's hover over the buttons. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Games R Us Site Walkthrough Link: https://www.loom.com/share/de546c2dd1404c8c853d389c784eaeef?sid=3b5747af-eee8-48d6-8b45-8c2963347dca
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src='https://www.loom.com/share/de546c2dd1404c8c853d389c784eaeef?sid=3b5747af-eee8-48d6-8b45-8c2963347dca' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+* Video created with Loom  
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+* One challenge I faced was selecting the top 2 games. It took several trials and errors for me to finally destruct and grab the first and second games. 
 
 ## License
 
